@@ -15,6 +15,6 @@ Accept-Encoding: gzip
 Accept-Charset: ISO-8859-1,UTF-8;q=0.7,*;q=0.7  
 Cache-Control: no-cache   
 Accept-Language: de,en;q=0.7,en-us;q=0.3  
-Referer:  `
+Referer:
 
 Then it removes all spaces and creates the hash
